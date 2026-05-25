@@ -319,7 +319,7 @@ After provisioning the VM via Terraform (step 1.2):
 #### 1. SSH into the Airflow VM
 #### 2. Run the setup script:
 ```
-git clone https://github.com/tranngocduvnvp/airflow-gcp.git
+git clone https://github.com/Zanseiken/airflow-gcp.git
 cd airflow-gcp
 chmod +x ./install_airflow.sh
 bash ./install_airflow.sh
